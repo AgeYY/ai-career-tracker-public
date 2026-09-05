@@ -12,7 +12,7 @@ posting, not through this website.
 ![The AI job board showing search and filters, source verification dates, and a table of opportunities](website-preview.png)
 
 *Public website screenshot captured September 5, 2026 (UTC). Listings and counts may
-change after a manual update.*
+change after an update.*
 
 ## What you can find
 
@@ -42,13 +42,16 @@ that company is listed.
    responsibilities, qualifications, and other available details. Follow
    **View original posting** to confirm the full requirements and apply.
 4. **Check Sources.** See participating employers, source health and check
-   dates, plus recruitment and startup-discovery resources that need manual
-   review. A discovery link is not itself a verified vacancy.
+   dates, plus recruitment and startup-discovery resources. Some sources are
+   reference links rather than connected feeds; a discovery link is not a vacancy.
 
 ## Updates and reliability
 
-**Updates are manual, not scheduled or real-time.** Reloading the website reads
-the latest published catalog; it does not start a new search of job sites.
+**Updates run weekly, normally Monday at 13:17 UTC, not in real time.** The updater
+discovers employers, verifies official feeds, and publishes only after validation.
+It makes inclusion decisions without requiring visitor review. Schedules can be
+delayed and some sources may be unavailable. Reloading reads the latest published
+catalog; it does not start a new search of job sites.
 
 - **Newest discovered** means when the board first found a role, not necessarily
   when the employer published it.
