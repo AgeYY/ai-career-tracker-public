@@ -2,14 +2,16 @@
 
 **Take your next step in AI.** Discover postdoctoral and industry opportunities
 across AI research and engineering, with searchable listings and links to the
-original employers.
+original employers. The focus is work that advances AI models and methods,
+including training, fine-tuning, evaluation research, and closely related systems—not
+roles that only integrate existing AI tools.
 
 ### [Open the job board →](https://ageyy.github.io/ai-career-tracker-public/)
 
 No account is needed to browse. Applications are made through the original
 posting, not through this website.
 
-![The AI job board showing search and filters, source verification dates, and a table of opportunities](website-preview.png)
+![The public AI job board with direction and position filters, Sign in, and Mark applied and Ignore actions](website-preview.png)
 
 *Public website screenshot captured September 5, 2026 (UTC). Listings and counts may
 change after an update.*
@@ -62,8 +64,8 @@ session) can erase it. Anyone with access to your browser profile can read it.
 Browser storage is shared by sites on the same origin; it is not account-level
 access control.
 
-When account login is enabled, **Sign in / Register** in the upper-right corner
-offers email/password login. Signup requires an email verification code; ordinary
+Choose **Sign in / Register** in the upper-right corner to log in or create an account using
+your email address and a password. Signup requires an email verification code; ordinary
 login does not. **Forgot password?** sends a recovery code to set a new password.
 Existing passwordless users can use it to set their first password. **My account**
 contains the account controls. Signed-in Applied/Ignored decisions sync through a private Supabase database.
@@ -74,7 +76,28 @@ decisions win, and browser copies stay unchanged. Signing out restores that sepa
 browser history. You can export account history or permanently delete the account.
 Authorized service administrators can access stored account data. Sign out on
 shared devices; browser sessions are not isolated from other scripts on the same
-origin. If login is not configured, browser-only saving remains available.
+origin. Registration is currently capped at **1,000 accounts**; browsing and
+browser-only saving remain available without registering.
+
+## Weekly email updates
+
+Weekly emails are **live and opt-in**. Signing up does not automatically subscribe you.
+
+1. Sign in and open **My account** in the upper-right corner.
+2. Under **Weekly email updates**, check **Receive weekly job updates**.
+3. Updates go to your account email—no separate email address is needed.
+
+After a successful Monday update is published, subscribers receive a digest with
+up to six example new opportunities and a link to the full board. The count and
+examples come from the same published catalog as the website. Existing jobs are
+not all announced as new, and no email is sent when there are no new opportunities.
+Manual updates do not trigger emails; their new additions can appear in the next
+weekly digest. Delivery can be delayed if an update or release check fails.
+
+Subscriptions are currently limited to **10 people**. Turn emails off in
+**My account** or use the unsubscribe link in an email. Bounces and spam complaints
+stop future digests. Emails are sent individually through Resend; subscriber
+addresses and Applied/Ignored history are not included in this public repository.
 
 ## Updates and reliability
 
