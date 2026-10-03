@@ -1,6 +1,6 @@
 # AI Research & Engineer Job
 
-**Take your next step in AI.** Discover postdoctoral and industry opportunities
+**AI Research Jobs and Postdoctoral Positions.** Discover postdoctoral and industry opportunities
 across AI research and engineering, with searchable listings and links to the
 original employers. The focus is work that advances AI models and methods,
 including training, fine-tuning, evaluation research, and closely related systems—not
