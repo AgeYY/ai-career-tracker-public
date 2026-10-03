@@ -79,26 +79,6 @@ shared devices; browser sessions are not isolated from other scripts on the same
 origin. Registration is currently capped at **1,000 accounts**; browsing and
 browser-only saving remain available without registering.
 
-## Weekly email updates
-
-Weekly emails are **live and opt-in**. Signing up does not automatically subscribe you.
-
-1. Sign in and open **My account** in the upper-right corner.
-2. Under **Weekly email updates**, check **Receive weekly job updates**.
-3. Updates go to your account email—no separate email address is needed.
-
-After a successful Monday update is published, subscribers receive a digest with
-up to six example new opportunities and a link to the full board. The count and
-examples come from the same published catalog as the website. Existing jobs are
-not all announced as new, and no email is sent when there are no new opportunities.
-Manual updates do not trigger emails; their new additions can appear in the next
-weekly digest. Delivery can be delayed if an update or release check fails.
-
-Subscriptions are currently limited to **10 people**. Turn emails off in
-**My account** or use the unsubscribe link in an email. Bounces and spam complaints
-stop future digests. Emails are sent individually through Resend; subscriber
-addresses and Applied/Ignored history are not included in this public repository.
-
 ## Updates and reliability
 
 **Updates run weekly, normally Monday at 13:17 UTC, not in real time.** The updater
